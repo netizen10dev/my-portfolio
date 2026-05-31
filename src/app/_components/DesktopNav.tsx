@@ -88,7 +88,7 @@ export default function DesktopNav() {
     <nav ref={navRef} className="fixed left-0 right-0 top-0 z-50 hidden md:block">
       <div className="mx-auto flex max-w-[1440px] items-center justify-between px-8 py-6">
         <Link href="/" data-nav-text className="text-base font-semibold capitalize tracking-[-0.04em] text-black">
-          H.Studio
+          P.Studio
         </Link>
 
         <ul className="flex items-center gap-14 text-base font-semibold capitalize tracking-[-0.04em]">

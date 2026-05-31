@@ -83,7 +83,7 @@ export default async function AboutPage() {
       {/* Philosophy */}
       <section className="relative z-10 w-full bg-white px-4 py-16 md:px-8 md:py-[120px]">
         <div className="mx-auto w-full max-w-[1440px]">
-          <p data-animate="" className="mb-12 font-[family-name:var(--font-geist-mono)] text-sm font-normal uppercase leading-[1.1] text-[#1f1f1f]">[ About Harvey ]</p>
+          <p data-animate="" className="mb-12 font-[family-name:var(--font-geist-mono)] text-sm font-normal uppercase leading-[1.1] text-[#1f1f1f]">[ About Prazer ]</p>
           <div className="flex flex-col gap-12 md:flex-row md:items-start md:gap-16">
             <div data-animate="" className="md:w-[55%]">
               <p className="font-[family-name:var(--font-playfair)] text-[clamp(28px,4.5vw,64px)] font-normal italic leading-[1.1] tracking-[-0.04em] text-black">&ldquo;{pullQuote}&rdquo;</p>
@@ -157,7 +157,7 @@ export default async function AboutPage() {
               <div className="absolute left-0 top-1/2 flex h-[160px] w-[15px] -translate-y-1/2 items-center justify-center" style={{ top: "calc(50% - 5.5px)" }}>
                 <div style={{ transform: "rotate(-90deg)" }}><p className="whitespace-nowrap font-[family-name:var(--font-geist-mono)] text-sm font-normal uppercase leading-[1.1] text-white">[ Coded By Claude ]</p></div>
               </div>
-              <p className="absolute left-0 top-1/2 -translate-y-1/2 whitespace-nowrap font-semibold capitalize text-white text-[290px] leading-[0.8] tracking-[-0.06em]">H.Studio</p>
+              <p className="absolute left-0 top-1/2 -translate-y-1/2 whitespace-nowrap font-semibold capitalize text-white text-[290px] leading-[0.8] tracking-[-0.06em]">P.Studio</p>
             </div>
             <div className="flex gap-[34px] pb-8 text-[12px] font-normal uppercase leading-[1.1] tracking-[-0.04em] text-white">
               <a href="#" className="underline">licences</a><a href="#" className="underline">Privacy policy</a>
@@ -169,7 +169,7 @@ export default async function AboutPage() {
             </div>
             <div className="flex w-full flex-col items-start gap-3 overflow-hidden">
               <p className="font-[family-name:var(--font-geist-mono)] text-[10px] font-normal uppercase leading-[1.1] text-white">[ Coded By Claude ]</p>
-              <p className="whitespace-nowrap font-semibold capitalize text-white text-[91px] leading-[0.8] tracking-[-0.06em]">H.Studio</p>
+              <p className="whitespace-nowrap font-semibold capitalize text-white text-[91px] leading-[0.8] tracking-[-0.06em]">P.Studio</p>
             </div>
           </div>
         </div>

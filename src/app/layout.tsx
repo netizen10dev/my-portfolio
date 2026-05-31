@@ -25,8 +25,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Harvey Specter — H.Studio",
-  description: "H.Studio is a full-service creative studio creating beautiful digital experiences and products.",
+  title: "Prazer Dez — P.Studio",
+  description: "P.Studio is a full-service creative studio creating beautiful digital experiences and products.",
 };
 
 export default function RootLayout({

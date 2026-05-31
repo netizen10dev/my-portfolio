@@ -41,15 +41,15 @@ export default function HeroSection() {
                   filter: "blur(0.4px)",
                 }}
               >
-                <span data-hero-harvey="" className="block md:inline-block">Harvey&nbsp;&nbsp;</span>
-                <span data-hero-specter="" className="block -translate-x-[25px] md:inline-block md:translate-x-0">Specter</span>
+                <span data-hero-harvey="" className="block md:inline-block">Prazer&nbsp;&nbsp;</span>
+                <span data-hero-specter="" className="block -translate-x-[25px] md:inline-block md:translate-x-0">Dez</span>
               </h1>
             </div>
 
             <div className="relative mt-4 flex w-full -translate-x-[40px] justify-start md:translate-x-0 md:justify-end">
               <div className="relative flex w-[452px] flex-col items-start gap-4 pl-[100px] md:w-[294px] md:pl-0">
                 <p className="pr-[60px] text-sm font-bold italic uppercase leading-[1.1] tracking-[-0.04em] text-[#1f1f1f] md:pr-0">
-                  H.Studio is a{" "}
+                  P.Studio is a{" "}
                   <span className="font-normal italic">full-service</span>{" "}
                   creative studio creating beautiful digital experiences and
                   products. We are an{" "}
